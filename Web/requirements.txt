@@ -45,7 +45,6 @@ greenlet==1.1.1
 grpcio==1.44.0
 h5py==3.6.0
 idna==3.2
-importlib-metadata==4.11.3
 ipykernel==5.4.2
 ipython==7.19.0
 ipython-genutils==0.2.0
