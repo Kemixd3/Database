@@ -202,17 +202,13 @@ python-dateutil==2.8.1
 python-pptx==0.6.21
 pytransform==0.2.1
 pytz==2021.1
-PyYAML==6.0
-pyzmq==22.2.1
 requests==2.26.0
-
 scipy==1.6.1
 Send2Trash==1.8.0
 shellescape==3.8.1
 six==1.15.0
 smmap==4.0.0
 SQLAlchemy==1.4.23
-
 terminado==0.12.1
 testpath==0.5.0
 threadpoolctl==3.0.0
